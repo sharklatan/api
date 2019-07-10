@@ -1,12 +1,12 @@
 {
   "iphone": [
     {
-      "id": 10.0,
+      "id": 10,
       "Name": "hello",
       "AltToolUrl":"https://yalujailbreak.com/11/"
     }
   ],
-  "profile": {
+  "ipad": {
     "name": "typicode",
    "WinToolName":"Electra / LiberiOS",
    "MacToolName":"Electra / LiberiOS",
