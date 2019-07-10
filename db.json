@@ -1,8 +1,18 @@
-{ 
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode",
    "WinToolName":"Electra / LiberiOS",
    "MacToolName":"Electra / LiberiOS",
    "WinToolUrl":"-",
    "MacToolUrl":"-",
    "AltToolName":"TweakMo",
    "AltToolUrl":"https://yalujailbreak.com/11/"
+  }
 }
+
